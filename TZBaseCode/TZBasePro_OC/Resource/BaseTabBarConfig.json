@@ -1,0 +1,27 @@
+[
+{
+    "RootVcName":"MainViewController",
+    "SelectImgName":"pxs_selected",
+    "Title":"首页",
+    "NorImgName":"pxs_nor",
+},
+{
+    "RootVcName":"ViewController",
+    "SelectImgName":"pxs_selected",
+    "Title":"测试",
+    "NorImgName":"pxs_nor",
+},
+{
+    "RootVcName":"ViewController",
+    "SelectImgName":"pxs_selected",
+    "Title":"标题",
+    "NorImgName":"pxs_nor",
+},
+{
+    "RootVcName":"ViewController",
+    "SelectImgName":"pxs_selected",
+    "Title":"标题",
+    "NorImgName":"pxs_nor",
+},
+
+]

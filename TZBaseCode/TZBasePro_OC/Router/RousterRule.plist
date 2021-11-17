@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/webView</key>
+	<dict>
+		<key>class</key>
+		<string>BaseWebViewController</string>
+		<key>router_name</key>
+		<string>webView</string>
+	</dict>
+	<key>/Home/Main</key>
+	<dict>
+		<key>class</key>
+		<string>MainViewController</string>
+		<key>needLogin</key>
+		<false/>
+		<key>router_name</key>
+		<string>demo首页</string>
+	</dict>
+	<key>/Home/Moudel</key>
+	<dict>
+		<key>class</key>
+		<string>ModuleTableVC</string>
+		<key>router_name</key>
+		<string>模块化vc</string>
+	</dict>
+	<key>/Home/Test</key>
+	<dict>
+		<key>needLogin</key>
+		<true/>
+		<key>class</key>
+		<string>TestViewController</string>
+		<key>router_name</key>
+		<string>test</string>
+	</dict>
+	<key>/loginPage</key>
+	<dict>
+		<key>class</key>
+		<string>LoginViewController</string>
+		<key>router_name</key>
+		<string>登录页面</string>
+	</dict>
+</dict>
+</plist>

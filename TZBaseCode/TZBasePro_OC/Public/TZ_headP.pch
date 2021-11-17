@@ -1,0 +1,25 @@
+//
+//  YDDaZhePrefixHeader.pch
+//  YDDaZheProject
+//
+//  Created by CYiOS on 2020/9/21.
+//
+
+#ifndef YDDaZhePrefixHeader_pch
+#define YDDaZhePrefixHeader_pch
+
+typedef enum  {
+ ktype = 0,
+   
+} BasePageType;
+
+
+#import "TZCustomMacro.h"
+#import "TZBaseNavgationVC.h"
+#import "TZCommonTool.h"
+#import "TZBaseTabBarVC.h"
+#import "RouterUrlConst.h"
+#import "RouterTool.h"
+
+#endif /* YDDaZhePrefixHeader_pch */
+
